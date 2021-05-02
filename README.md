@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Calibraint Technologies Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Node Module Used
+
+- And Design - UI Library
+- Redux - For Central State Management
+- Redux Thunk - For Asycn Action Dispatches
+- Typescript - For Linting
+- Axios - For making network calls
+- React Router Dom - For internal app routing
+
+## Developer's Details
+
+- Name : Reeturaj Chatterjee
+- Email Id : chatterjeereeturaj@gmail.com
 
 ## Available Scripts
 
